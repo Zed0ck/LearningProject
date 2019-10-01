@@ -1,0 +1,2 @@
+# LearningProject
+Javascript learning project
