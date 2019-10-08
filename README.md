@@ -15,3 +15,5 @@ Third lesson was to bounce the ball from walls. Created bounce-off-the-wall.html
 Fouth file was paddle-and-keybord-controls.html. There I learned to use controls and move the paddle
 
 Fifth lesson added game-over.html where I learned to close the game and reload scene
+
+Sixth lesson added builf-the-brick-field.html. I learned to use arrays to draw brick field
